@@ -20,5 +20,6 @@ int main()
         }
     }
     printf("%d %d", min, pos + 1);
+    printf("\n");
     return 0;
 }
